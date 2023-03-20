@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "otchet feb 2", "otchet feb 2\otchet feb 2.vcxproj", "{7589594D-C907-42A1-B46A-353A907933C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7589594D-C907-42A1-B46A-353A907933C9}.Debug|x64.ActiveCfg = Debug|x64
+		{7589594D-C907-42A1-B46A-353A907933C9}.Debug|x64.Build.0 = Debug|x64
+		{7589594D-C907-42A1-B46A-353A907933C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7589594D-C907-42A1-B46A-353A907933C9}.Debug|x86.Build.0 = Debug|Win32
+		{7589594D-C907-42A1-B46A-353A907933C9}.Release|x64.ActiveCfg = Release|x64
+		{7589594D-C907-42A1-B46A-353A907933C9}.Release|x64.Build.0 = Release|x64
+		{7589594D-C907-42A1-B46A-353A907933C9}.Release|x86.ActiveCfg = Release|Win32
+		{7589594D-C907-42A1-B46A-353A907933C9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A918D482-FCD2-4F15-B9BC-E9990E73D8A0}
+	EndGlobalSection
+EndGlobal

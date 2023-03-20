@@ -1,0 +1,21 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: otchet feb 2, Конфигурация: Debug x64 ------
+1>Source.cpp
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(24,6): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(25,7): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(29,34): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(29,37): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(35,12): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(35,15): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(35,17): warning C4805: ==: небезопасное смешение типа "_Ty" и типа "bool" в операции
+1>        with
+1>        [
+1>            _Ty=double
+1>        ]
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(37,16): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>C:\Users\Zhrat\source\repos\otchet feb 2\otchet feb 2\Source.cpp(37,19): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+1>otchet feb 2.vcxproj -> C:\Users\Zhrat\source\repos\otchet feb 2\x64\Debug\otchet feb 2.exe
+1>Сборка проекта "otchet feb 2.vcxproj" завершена.
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 0, пропущено — 0 ==========
+========== Прошло 00:01,682 ==========
